@@ -1,0 +1,11 @@
+.Button {
+  background-color: white;
+  color: blue;
+  height: 40px;
+  width: 12em;
+  border-radius: 12px;
+  margin: 10px;
+  font-family: inherit;
+  font-size: 19px;
+  font-style: italic;
+}

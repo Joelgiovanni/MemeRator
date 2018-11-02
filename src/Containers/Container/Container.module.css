@@ -1,0 +1,10 @@
+.Container {
+  background-color: white;
+  padding: 5%;
+  color:black;
+}
+
+.Content{
+  border-radius: 20px;
+  background-color: rgba(227, 27, 27, 0.7);
+}

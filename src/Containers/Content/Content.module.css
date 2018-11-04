@@ -1,9 +1,11 @@
 .Content{
-  width:50%;
+  max-width:80%;
   margin: auto;
-  height: 500px;
+  max-height: 80%;
 }
 
-.Content p{
-  position: absolute;
+.Image img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
 }
